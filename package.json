@@ -17,7 +17,8 @@
   ],
   "author": "Javi Aguilar",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "peerDependencies": {
     "bootstrap": ">=4.0",
     "jquery": ">=2.1.0"
   },
